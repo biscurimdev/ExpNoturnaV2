@@ -28,7 +28,11 @@ Funciona diretamente pelo navegador via **bookmarklet**, sem necessidade de exte
     ```
 2. Abra o navegador (Chrome, Edge ou Firefox).
 3. Crie um novo **favorito** e cole esse código no campo de **URL**.
-4. Dê um nome como ` ```🌓 Expansão Noturna v2`.
+4. Uma sugestão, copie o nome abaixo e cole no bookmarklet.
+ ```
+ 🌓 Expansão Noturna v2.
+
+ ```
 5. Acesse o site: [https://expansao.educacao.sp.gov.br](https://expansao.educacao.sp.gov.br).
 6. Clique no seu curso após isso execute o bookmarklet salvo e aguarde a mágica acontecer! ✨
 
