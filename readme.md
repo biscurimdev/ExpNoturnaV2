@@ -12,7 +12,7 @@ Funciona diretamente pelo navegador via **bookmarklet**, sem necessidade de exte
 
 ### ⚙️ Funcionalidades
 
-- ✅ Preenchimento automático de tentativas e quizzes
+- ✅ Preenchimento automático de respostas e quizzes
 - ⏱️ Simulação de tempo real de atividade
 - 📊 Barra de progresso com feedback visual
 - 🧠 Execução automática com IA e lógica otimizada
