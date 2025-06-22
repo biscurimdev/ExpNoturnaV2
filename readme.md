@@ -15,7 +15,7 @@ Funciona diretamente pelo navegador via **bookmarklet**, sem necessidade de exte
 - ✅ Preenchimento automático de respostas e quizzes
 - ⏱️ Simulação de tempo real de atividade
 - 📊 Barra de progresso com feedback visual
-- 🧠 Execução automática com IA e lógica otimizada
+- 🧠 Execução automática com lógica otimizada
 - 🌓 Interface discreta e adaptada para uso noturno
 
 ---
